@@ -1,0 +1,19 @@
+JK encounters a Friendly Traveler!
+
++++++++++++++
++++++++++++++
++++++++++++++
++++++++++++++
+
+The Friendly Traveller offers to share their baked cherry pie with you! 
+They seem to look genuine and happy.
+
+1. Gladly accept their offer to share their baked cherry pie.
+2. Politely decline.
+3. Attack them immediately with all the fury of the elements.
+4. Simply walk away.
+
+1. You eat the pie, feel woozy, black out, and wake up naked with all your gold having been stolen.
+2. You walk away.
+3. You attack and defeat the traveller. Costing 1 stamina and losing 1 health but gaining 10 gold from the bloody corpse of the smiling and non deceased friendly traveller.
+4. As you walk away the traveller throws the hot pie at you, dealing 1 damage.
